@@ -1,4 +1,4 @@
 # Backend dependencies for OctoFit Tracker
-Django >= 3.2,<4.0
+Django==4.1
 Django-Rest-Framework
 psycopg2-binary
